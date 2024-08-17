@@ -1,14 +1,7 @@
-# Face Recognition_Flutter [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FFace-Recognition_Flutter)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FFace-Recognition_Flutter)
 
-![Flutter CI](https://github.com/Rishit-dagli/Face-Recognition_Flutter/workflows/Flutter%20CI/badge.svg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli)
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli)
 
 A project which shows you how you code use AI algorithms with Flutter, here I show the example of a Face recognition application with 
-Flutter and FireBase. I also gave a talk about this at [Flutter Mumbai Community](https://www.meetup.com/Mumbai-Flutter/) and 
-[Flutter Bangalore](https://www.meetup.com/flutter-bangalore-group/events/272057891/). I strongly 
-advise you to check out the [talk](https://github.com/Rishit-dagli/Face-Recognition_Flutter/tree/master/talk) folder which has details
-regarding the talk.
+Flutter and FireBase.
 
 ## Table of contents
 
@@ -64,7 +57,7 @@ ML Kit’s selection of APIs run on-device or in the cloud. Our on-device APIs c
 
 If ML Kit's APIs don't cover your use cases, you can always bring your own existing TensorFlow Lite models. Just upload your model to Firebase, and we'll take care of hosting and serving it to your app. ML Kit acts as an API layer to your custom model, making it simpler to run and use.
 
-![](https://github.com/Rishit-dagli/MLKit-Firebase/blob/master/images/ML%20kit%20capabilities.png)
+![](https://github.com/lionking0105/MLKit-Firebase/blob/master/images/ML%20kit%20capabilities.png)
 
 ## Example (Face detection) 
 
@@ -529,9 +522,5 @@ FittedBox(
 <br>
 <br>
 
-<img src="https://github.com/Rishit-dagli/Face-Recognition_Flutter/blob/master/Screenshots/example1.png" height = 400>
-<img src="https://github.com/Rishit-dagli/Face-Recognition_Flutter/blob/master/Screenshots/example2.jpeg" height = 400>
-
-## What next!
-
-You can contribute to this project, all you need to do is submit a pull request. Be sure to first read [CONTRIBUTING.md](https://github.com/Rishit-dagli/Face-Recognition_Flutter/blob/master/CONTRIBUTING.md).
+<img src="https://github.com/lionking0105/Face-Recognition_Flutter/blob/master/Screenshots/example1.png" height = 400>
+<img src="https://github.com/lionking0105/Face-Recognition_Flutter/blob/master/Screenshots/example2.jpeg" height = 400>
